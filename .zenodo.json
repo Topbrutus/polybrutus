@@ -1,0 +1,32 @@
+{
+  "title": "Polybrutus — configuration géométrique exacte à sept points (60°) / Exact Seven-Point Geometry",
+  "upload_type": "software",
+  "description": "<p><strong>Polybrutus</strong> est le nom donné par Gabriel St-Pierre (Topbrutus) à une construction analytique reproductible de sept points sur une sphère. La configuration comprend quatre points dans l’hémisphère supérieur, trois dans l’hémisphère inférieur, et 21 distances par paires regroupées en six familles exactes.</p><p>Les points intermédiaires sont définis à 60° des axes polaires ; pour tout rayon R&gt;0, les distances normalisées ont pour signatures k=4d²/R² dans {4,7,9,12,13,16}, avec multiplicités (6,2,3,6,2,2). Le barycentre est G=(0,0,R/14). Une figure, des tableaux, un visualiseur 3D et un vérificateur indépendant accompagnent la documentation.</p><p><strong>English:</strong> Polybrutus names a reproducible seven-point spherical configuration with exact 60° polar geometry, 21 pairwise links, six exact distance families, and centroid (0,0,R/14). The archive provides independent verification. Mathematical novelty or worldwide priority has not been established.</p><p>La conformité de ces identités est vérifiable mais n’établit ni nouveauté mondiale, ni optimalité globale, ni droit exclusif sur la géométrie.</p>",
+  "creators": [
+    {
+      "name": "St-Pierre, Gabriel",
+      "orcid": "0009-0009-9297-2336",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "keywords": [
+    "Polybrutus",
+    "seven-point geometry",
+    "géométrie exacte",
+    "60 degrees",
+    "spherical point configuration",
+    "graph K7",
+    "distance invariants",
+    "Gabriel St-Pierre",
+    "reproducibility"
+  ],
+  "version": "0.1.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Topbrutus/polybrutus",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
