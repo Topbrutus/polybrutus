@@ -63,6 +63,22 @@ Sur les 21 segments, les longueurs ne prennent que six valeurs. Pour tout couple
 
 La somme des sept coordonnées donne **Σx=0**, **Σy=0**, **Σz=R/2**, donc **G=(0,0,R/14)**. Ce barycentre est situé **au-dessus du centre de la sphère**, même si les sept sommets sont sur sa surface.
 
+## Démonstration visuelle : faites tourner le Polybrutus
+
+Le schéma en tête de page affiche les 7 sommets, le repère Z et les 21 liaisons. Pour faire tourner un **modèle 3D à la souris**, utiliser le [visualiseur Polybrutus](viewer_polybrutus.py) avec Python et les bibliothèques graphiques optionnelles :
+
+```bash
+python -m pip install -r requirements-viewer.txt
+python viewer_polybrutus.py --radius 10
+python viewer_polybrutus.py --radius 10 --save polybrutus.png --no-show
+```
+
+Dans le visualiseur, **O** désigne le centre de la sphère; **G** désigne le barycentre, à la hauteur R/14. Les deux repères ne sont pas des sommets additionnels. Le dessin peut être enregistré au format PNG pour les présentations et études.
+
+### Les vingt-et-une mesures individuelles
+
+Le tableau [**data/21_distances_R10.csv**](data/21_distances_R10.csv) détaille chaque paire de points, son k exact, l'expression générale de sa distance, puis sa longueur numérique à R = 10 cm. Il permet une vérification ligne par ligne, et pas seulement du résumé en six familles.
+
 ## Exploration et reproduction
 
 Le code de référence disponible lors de la préparation est `generateur_7_pics_snap_exact_60_invariants.py` : sa commande **« Snap exact 60° »** produit les coordonnées analytiques décrites ici. La définition mathématique indépendante est reprise dans [SPECIFICATION.md](SPECIFICATION.md), et un vérificateur autonome se trouve dans [verify_polybrutus.py](verify_polybrutus.py).
