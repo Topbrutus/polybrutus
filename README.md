@@ -4,7 +4,9 @@
 
 > Sept points sur une même sphère, un axe vertical, une construction angulaire à 60° et vingt-et-une distances organisées en six familles mathématiques exactes.
 
-![Polybrutus — construction géométrique](figures/polybrutus_7_points.svg)
+![Polybrutus — représentation 3D calculée à 60 degrés](figures/polybrutus_7_points_3d.png)
+
+**Voir aussi :** [schéma vectoriel annoté avec les invariants](figures/polybrutus_7_points.svg). Les deux illustrations proviennent des mêmes coordonnées analytiques exactes.
 
 ## Comprendre en 30 secondes
 
