@@ -1,0 +1,7 @@
+POLYBRUTUS–HIGGS | EXPLORATION EXACTE | PASS
+Polybrutus_3D: rank=3, sphere=True, E2=6329/546, E3=24435/64, trGram3=4629285/87808, projected_F2=34291555126/5554571841
+4D_A: rank=4, sphere=True, E2=6329/546, E3=23835/64, trGram3=5234925/87808, projected_F2=12874444982806/449920319121
+4D_B: rank=4, sphere=False, E2=6329/546, E3=26817/64, trGram3=3972321/87808, projected_F2=NON APPLICABLE
+4D_C: rank=4, sphere=True, E2=6329/546, E3=24273/64, trGram3=4721139/87808, projected_F2=159152051260/21424777101
+Cube+1: {'cube_barycenter_e0': Fraction(4, 7), 'cube_E2': Fraction(15, 1), 'cube_E3': Fraction(135, 1), 'higgs_radial_mass_squared_over_lambda_v_squared': 2, 'higgs_angular_modes_with_zero_potential_curvature': 3}
+PHYSIQUE: aucune masse prédite; jauge non résolue; pas de preuve Higgs.
