@@ -1,0 +1,62 @@
+{
+  "status": "PASS",
+  "model": "1D closed seven-site SU2xU1Y static toy; fixed site map",
+  "parameters": {
+    "N": 7,
+    "a": "1",
+    "kappa": "1",
+    "lambda": "1",
+    "v": "sqrt(2)",
+    "g_SU2": "1",
+    "g_U1": "1",
+    "Y_Higgs": "1/2",
+    "background_SU2": "[[3/5,-4/5],[4/5,3/5]]",
+    "background_U1": "(3+4*i)/5",
+    "twist_edge": "6 -> 0"
+  },
+  "cases": {
+    "Polybrutus_3D": {
+      "identity_link_action": "31/2",
+      "predeclared_twisted_link_action": "743/50 - 12*sqrt(3)/25",
+      "potential_at_vacuum": "0",
+      "cycle_edges": 7
+    },
+    "4D_A": {
+      "identity_link_action": "18",
+      "predeclared_twisted_link_action": "418/25 - 32*sqrt(2)/75",
+      "potential_at_vacuum": "0",
+      "cycle_edges": 7
+    },
+    "4D_C": {
+      "identity_link_action": "16",
+      "predeclared_twisted_link_action": "108*sqrt(183)/1525 + 384/25",
+      "potential_at_vacuum": "0",
+      "cycle_edges": 7
+    },
+    "Cube_plus_1": {
+      "identity_link_action": "14",
+      "predeclared_twisted_link_action": "16*sqrt(3)/25 + 366/25",
+      "potential_at_vacuum": "0",
+      "cycle_edges": 7
+    },
+    "4D_B_not_on_vacuum_sphere": {
+      "identity_link_distance_sum_only": "18",
+      "included_in_fixed_norm_Higgs_comparison": false
+    }
+  },
+  "wilson_trace_identity": "2",
+  "wilson_trace_twisted": "18/25 + 24*I/25",
+  "gauge_covariance_check": "4 of 4 cases: 7 edges each + full action + Wilson trace",
+  "label_permutation_negative_control": {
+    "original_cycle_energy": "31/2",
+    "after_swap_sites_3_4": "37/2",
+    "same_21_unlabeled_distances": true
+  },
+  "wrong_field_only_change_detected": true,
+  "pure_gauge_vacuum_energy": "0",
+  "onsite": {
+    "onsite_potential": "h**4/4 + sqrt(2)*h**3 + 2*h**2",
+    "local_curvature_m2_toy_units": "4"
+  },
+  "interpretation": "toy geometry/gauge test; no particle or Higgs mass predicted"
+}
