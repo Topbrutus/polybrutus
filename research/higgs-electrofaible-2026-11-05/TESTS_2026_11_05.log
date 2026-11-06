@@ -1,0 +1,30 @@
+test_01_inputs_present (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_01_inputs_present) ... ok
+test_02_unit_spinors (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_02_unit_spinors) ... ok
+test_03_exact_multisets (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_03_exact_multisets) ... ok
+test_04_exact_vacuum (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_04_exact_vacuum) ... ok
+test_05_background_su2_det_and_hyper_unit (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_05_background_su2_det_and_hyper_unit) ... ok
+test_06_loop_identity (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_06_loop_identity) ... ok
+test_07_su2_wilson_nontrivial (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_07_su2_wilson_nontrivial) ... ok
+test_08_neutral_em_both_holonomies_nontrivial (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_08_neutral_em_both_holonomies_nontrivial) ... ok
+test_09_neutral_vev_zero_action (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_09_neutral_vev_zero_action) ... ok
+test_10_charged_state_fails_zero (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_10_charged_state_fails_zero) ... ok
+test_11_generic_vev_positive (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_11_generic_vev_positive) ... ok
+test_12_generic_rigorous_lower_bound (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_12_generic_rigorous_lower_bound) ... ok
+test_13_operator_hermitian (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_13_operator_hermitian) ... ok
+test_14_operator_energy_identity (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_14_operator_energy_identity) ... ok
+test_15_spectrum_exact_minimum (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_15_spectrum_exact_minimum) ... ok
+test_16_explicit_minimizer (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_16_explicit_minimizer) ... ok
+test_17_local_full_electroweak_gauge (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_17_local_full_electroweak_gauge) ... ok
+test_18_wrong_field_only_control (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_18_wrong_field_only_control) ... ok
+test_19_relax_connections_erases_poly_geometry (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_19_relax_connections_erases_poly_geometry) ... ok
+test_20_relaxed_pure_gauge_is_original_vacuum (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_20_relaxed_pure_gauge_is_original_vacuum) ... ok
+test_21_prior_cycle_benchmark (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_21_prior_cycle_benchmark) ... ok
+test_22_all_permutation_means (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_22_all_permutation_means) ... ok
+test_23_relabel_changes_energy (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_23_relabel_changes_energy) ... ok
+test_24_exact_broken_su2_analytical_bound (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_24_exact_broken_su2_analytical_bound) ... ok
+test_25_predeclared_inputs_and_json (test_electrofaible_sept_sites.TestElectrofaibleSeptSites.test_25_predeclared_inputs_and_json) ... ok
+
+----------------------------------------------------------------------
+Ran 25 tests in 1.006s
+
+OK

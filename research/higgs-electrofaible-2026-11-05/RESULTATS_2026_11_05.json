@@ -1,0 +1,112 @@
+{
+  "status": "PASS",
+  "sites": 7,
+  "edges": 7,
+  "backgrounds": [
+    "identity",
+    "su2_only",
+    "neutral_em",
+    "hyper_only"
+  ],
+  "independent_parameter_q": "(3+4i)/5",
+  "model": "static 1D ring, SU(2)_L and U(1)_Y links in the Higgs representation, a=kappa=lambda=1, norm Phi=1",
+  "results": {
+    "Polybrutus_3D_embedded_S3": {
+      "fixed_assignment_energies": {
+        "identity": 15.5,
+        "su2_only": 15.1,
+        "neutral_em": 15.5,
+        "hyper_only": 15.1
+      },
+      "relaxed_connection_energy": 0.0,
+      "identity_cycle_permutations": {
+        "count": 5040,
+        "distinct_values": 37,
+        "minimum": 9.0,
+        "maximum": 22.75,
+        "mean": 16.25,
+        "predicted_mean": 16.25
+      }
+    },
+    "4D_A_on_S3": {
+      "fixed_assignment_energies": {
+        "identity": 18.0,
+        "su2_only": 17.2,
+        "neutral_em": 17.146666666667,
+        "hyper_only": 17.2
+      },
+      "relaxed_connection_energy": 0.0,
+      "identity_cycle_permutations": {
+        "count": 5040,
+        "distinct_values": 49,
+        "minimum": 9.0,
+        "maximum": 22.75,
+        "mean": 16.25,
+        "predicted_mean": 16.25
+      }
+    },
+    "4D_C_on_S3": {
+      "fixed_assignment_energies": {
+        "identity": 16.0,
+        "su2_only": 17.36365811649,
+        "neutral_em": 17.436389739788,
+        "hyper_only": 17.36365811649
+      },
+      "relaxed_connection_energy": 0.0,
+      "identity_cycle_permutations": {
+        "count": 5040,
+        "distinct_values": 44,
+        "minimum": 8.25,
+        "maximum": 23.5,
+        "mean": 16.25,
+        "predicted_mean": 16.25
+      }
+    },
+    "Cube_six_faces_plus_one_S3": {
+      "fixed_assignment_energies": {
+        "identity": 14.0,
+        "su2_only": 14.4,
+        "neutral_em": 15.28,
+        "hyper_only": 14.4
+      },
+      "relaxed_connection_energy": 0.0,
+      "identity_cycle_permutations": {
+        "count": 5040,
+        "distinct_values": 4,
+        "minimum": 9.499999999999998,
+        "maximum": 13.999999999999998,
+        "mean": 10.999999999999998,
+        "predicted_mean": 10.999999999999998
+      }
+    }
+  },
+  "spectral": {
+    "identity": {
+      "minimum_for_seven_unit_doublets": 0.0,
+      "lowest_laplacian_eigenvalue": -0.0,
+      "combined_wilson_trace": "(2+0j)"
+    },
+    "su2_only": {
+      "minimum_for_seven_unit_doublets": 0.122659956426,
+      "lowest_laplacian_eigenvalue": 0.017522850918,
+      "combined_wilson_trace": "(1.2+0j)"
+    },
+    "neutral_em": {
+      "minimum_for_seven_unit_doublets": 0.0,
+      "lowest_laplacian_eigenvalue": 0.0,
+      "combined_wilson_trace": "(0.72+0.96j)"
+    },
+    "hyper_only": {
+      "minimum_for_seven_unit_doublets": 0.122659956426,
+      "lowest_laplacian_eigenvalue": 0.017522850918,
+      "combined_wilson_trace": "(1.2+1.6j)"
+    }
+  },
+  "neutral_vacuum_action": "0",
+  "charged_constant_action_neutral_em": "64/25",
+  "generic_constant_action": "4/5",
+  "generic_rigorous_lower_bound": "4/35",
+  "generic_exact_minimum_formula": "14*(1-cos(atan2(4,3)/7))",
+  "no_go": "all four unit-doublet input cases admit flat SU(2) links with E=0 when links are fitted to the fields",
+  "interpretation": "no electroweak particle or Higgs mass claim; static gauge-invariant toy only"
+}
