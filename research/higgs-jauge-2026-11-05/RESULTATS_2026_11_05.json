@@ -1,0 +1,166 @@
+{
+  "status": "PASS",
+  "meaning": "EXACT MATH / NO HIGGS MASS",
+  "cases": {
+    "Polybrutus_3D_embedded_S3": {
+      "label": "Polybrutus_3D_embedded_S3",
+      "check_mode": "expanded SU(2) matrices: 21 edges, 35 triangles",
+      "dist_sq_multiset": [
+        [
+          "1",
+          6
+        ],
+        [
+          "13/4",
+          2
+        ],
+        [
+          "3",
+          6
+        ],
+        [
+          "4",
+          2
+        ],
+        [
+          "7/4",
+          2
+        ],
+        [
+          "9/4",
+          3
+        ]
+      ],
+      "edge_sum_unit_links": "195/4",
+      "edge_sum_after_local_gauge": "195/4",
+      "edge_sum_pure_links": "0",
+      "bare_barycenter_norm_sq": "1/196",
+      "bare_barycenter_norm_sq_after_local_gauge": "1",
+      "transported_barycenter_norm_sq_identity_links": "1/196",
+      "transported_barycenter_norm_sq_after_gauge": "1/196",
+      "transported_barycenter_norm_sq_pure_links": "1",
+      "three_body_covariant_unit_links": "24435/64",
+      "three_body_covariant_after_local_gauge": "24435/64",
+      "three_body_covariant_pure_links": "0",
+      "tested_edges": 21,
+      "tested_triangles": 35
+    },
+    "4D_A_on_S3": {
+      "label": "4D_A_on_S3",
+      "check_mode": "SU(2) algebraic lemma + verified unitary frames (21 edges, 35 triangles)",
+      "dist_sq_multiset": [
+        [
+          "1",
+          6
+        ],
+        [
+          "13/4",
+          2
+        ],
+        [
+          "3",
+          6
+        ],
+        [
+          "4",
+          2
+        ],
+        [
+          "7/4",
+          2
+        ],
+        [
+          "9/4",
+          3
+        ]
+      ],
+      "edge_sum_unit_links": "195/4",
+      "edge_sum_after_local_gauge": "195/4",
+      "edge_sum_pure_links": "0",
+      "bare_barycenter_norm_sq": "1/196",
+      "bare_barycenter_norm_sq_after_local_gauge": "1",
+      "transported_barycenter_norm_sq_identity_links": "1/196",
+      "transported_barycenter_norm_sq_after_gauge": "1/196",
+      "transported_barycenter_norm_sq_pure_links": "1",
+      "three_body_covariant_unit_links": "23835/64",
+      "three_body_covariant_after_local_gauge": "23835/64",
+      "three_body_covariant_pure_links": "0",
+      "tested_edges": 21,
+      "tested_triangles": 35
+    },
+    "4D_C_on_S3": {
+      "label": "4D_C_on_S3",
+      "check_mode": "SU(2) algebraic lemma + verified unitary frames (21 edges, 35 triangles)",
+      "dist_sq_multiset": [
+        [
+          "1",
+          6
+        ],
+        [
+          "13/4",
+          2
+        ],
+        [
+          "3",
+          6
+        ],
+        [
+          "4",
+          2
+        ],
+        [
+          "7/4",
+          2
+        ],
+        [
+          "9/4",
+          3
+        ]
+      ],
+      "edge_sum_unit_links": "195/4",
+      "edge_sum_after_local_gauge": "195/4",
+      "edge_sum_pure_links": "0",
+      "bare_barycenter_norm_sq": "1/196",
+      "bare_barycenter_norm_sq_after_local_gauge": "1",
+      "transported_barycenter_norm_sq_identity_links": "1/196",
+      "transported_barycenter_norm_sq_after_gauge": "1/196",
+      "transported_barycenter_norm_sq_pure_links": "1",
+      "three_body_covariant_unit_links": "24273/64",
+      "three_body_covariant_after_local_gauge": "24273/64",
+      "three_body_covariant_pure_links": "0",
+      "tested_edges": 21,
+      "tested_triangles": 35
+    },
+    "Cube_six_faces_plus_one_S3": {
+      "label": "Cube_six_faces_plus_one_S3",
+      "check_mode": "expanded SU(2) matrices: 21 edges, 35 triangles",
+      "dist_sq_multiset": [
+        [
+          "1",
+          6
+        ],
+        [
+          "3",
+          3
+        ],
+        [
+          "3/2",
+          12
+        ]
+      ],
+      "edge_sum_unit_links": "33",
+      "edge_sum_after_local_gauge": "33",
+      "edge_sum_pure_links": "0",
+      "bare_barycenter_norm_sq": "16/49",
+      "bare_barycenter_norm_sq_after_local_gauge": "1",
+      "transported_barycenter_norm_sq_identity_links": "16/49",
+      "transported_barycenter_norm_sq_after_gauge": "16/49",
+      "transported_barycenter_norm_sq_pure_links": "1",
+      "three_body_covariant_unit_links": "135",
+      "three_body_covariant_after_local_gauge": "135",
+      "three_body_covariant_pure_links": "0",
+      "tested_edges": 21,
+      "tested_triangles": 35
+    }
+  }
+}

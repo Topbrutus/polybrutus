@@ -1,0 +1,127 @@
+{
+  "description": "Direct copy of exact S3 spinor expressions from previous Polybrutus gauge source; not inferred or fitted.",
+  "original": "research/higgs-jauge-2026-11-05/higgs_gauge_links.py",
+  "local_source_sha256": "c33952388df8e45bce9afd82b3fe7aa125d115b3f33e5608eb959df46b4f9e1d",
+  "spinors": {
+    "Polybrutus_3D_embedded_S3": [
+      [
+        "0",
+        "1"
+      ],
+      [
+        "sqrt(3)/2",
+        "1/2"
+      ],
+      [
+        "-sqrt(3)/4 + 3*I/4",
+        "1/2"
+      ],
+      [
+        "-sqrt(3)/4 - 3*I/4",
+        "1/2"
+      ],
+      [
+        "0",
+        "-1"
+      ],
+      [
+        "sqrt(3)/2",
+        "-1/2"
+      ],
+      [
+        "-sqrt(3)/2",
+        "-1/2"
+      ]
+    ],
+    "4D_A_on_S3": [
+      [
+        "-1/2 - sqrt(3)*I/6",
+        "-sqrt(6)/3"
+      ],
+      [
+        "1/2 - sqrt(3)*I/6",
+        "-sqrt(6)/3"
+      ],
+      [
+        "sqrt(3)*I/3",
+        "-sqrt(6)/3"
+      ],
+      [
+        "-sqrt(3)*I/3",
+        "sqrt(6)/3"
+      ],
+      [
+        "-1/8 + 7*sqrt(3)*I/24",
+        "5*sqrt(6)/24 + sqrt(30)*I/8"
+      ],
+      [
+        "-5/8 - 5*sqrt(3)*I/24",
+        "-sqrt(6)/24 - sqrt(30)*I/8"
+      ],
+      [
+        "1/2 + sqrt(3)*I/6",
+        "sqrt(6)/3"
+      ]
+    ],
+    "4D_C_on_S3": [
+      [
+        "-sqrt(3)/2 - 5*sqrt(61)*I/122",
+        "-3*sqrt(61)/61"
+      ],
+      [
+        "sqrt(3)/2 - 5*sqrt(61)*I/122",
+        "-3*sqrt(61)/61"
+      ],
+      [
+        "3*sqrt(3)/8 + 41*sqrt(61)*I/488",
+        "-3*sqrt(61)/61"
+      ],
+      [
+        "-sqrt(3)/2 + 5*sqrt(61)*I/122",
+        "3*sqrt(61)/61"
+      ],
+      [
+        "-4*sqrt(61)*I/61",
+        "47*sqrt(61)/488 + sqrt(11)*I/8"
+      ],
+      [
+        "sqrt(3)/8 - sqrt(61)*I/8",
+        "0"
+      ],
+      [
+        "-sqrt(3)/8 + sqrt(61)*I/8",
+        "0"
+      ]
+    ],
+    "Cube_six_faces_plus_one_S3": [
+      [
+        "1",
+        "0"
+      ],
+      [
+        "1/2 + sqrt(3)*I/2",
+        "0"
+      ],
+      [
+        "1/2 - sqrt(3)*I/2",
+        "0"
+      ],
+      [
+        "1/2",
+        "sqrt(3)/2"
+      ],
+      [
+        "1/2",
+        "-sqrt(3)/2"
+      ],
+      [
+        "1/2",
+        "sqrt(3)*I/2"
+      ],
+      [
+        "1/2",
+        "-sqrt(3)*I/2"
+      ]
+    ]
+  }
+}

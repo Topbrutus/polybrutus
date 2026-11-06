@@ -1,0 +1,22 @@
+test_21_link_covariant_distances_survive (test_higgs_gauge_links.TestGaugeLinks.test_21_link_covariant_distances_survive) ... ok
+test_all_21_naive_pair_differences_can_disappear (test_higgs_gauge_links.TestGaugeLinks.test_all_21_naive_pair_differences_can_disappear) ... ok
+test_all_35_wilson_triangles_are_flat (test_higgs_gauge_links.TestGaugeLinks.test_all_35_wilson_triangles_are_flat) ... ok
+test_barycenter_not_plain_gauge_invariant (test_higgs_gauge_links.TestGaugeLinks.test_barycenter_not_plain_gauge_invariant) ... ok
+test_connection_affects_covariant_pair_energy (test_higgs_gauge_links.TestGaugeLinks.test_connection_affects_covariant_pair_energy) ... ok
+test_cube_distances_and_sum (test_higgs_gauge_links.TestGaugeLinks.test_cube_distances_and_sum) ... ok
+test_direct_matrix_covariance_on_true_4d_sample_edges (test_higgs_gauge_links.TestGaugeLinks.test_direct_matrix_covariance_on_true_4d_sample_edges) ... ok
+test_each_state_on_s3 (test_higgs_gauge_links.TestGaugeLinks.test_each_state_on_s3) ... ok
+test_exact_three_body_references (test_higgs_gauge_links.TestGaugeLinks.test_exact_three_body_references) ... ok
+test_four_geometries_including_two_true_4d_witnesses (test_higgs_gauge_links.TestGaugeLinks.test_four_geometries_including_two_true_4d_witnesses) ... ok
+test_geometry_specific_barycenters (test_higgs_gauge_links.TestGaugeLinks.test_geometry_specific_barycenters) ... ok
+test_parallel_transported_barycenter_invariant (test_higgs_gauge_links.TestGaugeLinks.test_parallel_transported_barycenter_invariant) ... ok
+test_polybrutus_distances_and_sum (test_higgs_gauge_links.TestGaugeLinks.test_polybrutus_distances_and_sum) ... ok
+test_previous_four_classes_still_certified (test_higgs_gauge_links.TestGaugeLinks.test_previous_four_classes_still_certified) ... ok
+test_site_dependent_su2_exists (test_higgs_gauge_links.TestGaugeLinks.test_site_dependent_su2_exists) ... ok
+test_third_order_descriptor_is_covariant_with_links (test_higgs_gauge_links.TestGaugeLinks.test_third_order_descriptor_is_covariant_with_links) ... ok
+test_true_4d_witnesses_distinct_three_body_invariants (test_higgs_gauge_links.TestGaugeLinks.test_true_4d_witnesses_distinct_three_body_invariants) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 10.682s
+
+OK

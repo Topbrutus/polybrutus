@@ -1,0 +1,24 @@
+test_01_predeclared_parameters (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_01_predeclared_parameters) ... ok
+test_02_positions_are_spatial_and_separate (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_02_positions_are_spatial_and_separate) ... ok
+test_03_graph_is_one_closed_cycle (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_03_graph_is_one_closed_cycle) ... ok
+test_04_cospherical_input_norms (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_04_cospherical_input_norms) ... ok
+test_05_exact_histogram_preserved (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_05_exact_histogram_preserved) ... ok
+test_06_21_pairwise_sums_identical (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_06_21_pairwise_sums_identical) ... ok
+test_07_cycle_action_differs_by_class (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_07_cycle_action_differs_by_class) ... ok
+test_08_fixed_twist_not_equal_identity (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_08_fixed_twist_not_equal_identity) ... ok
+test_09_site_permutation_negative_control (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_09_site_permutation_negative_control) ... ok
+test_10_su2_and_u1_composite_gauge_unitary (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_10_su2_and_u1_composite_gauge_unitary) ... ok
+test_11_wilson_loop_is_gauge_invariant (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_11_wilson_loop_is_gauge_invariant) ... ok
+test_12_seven_covariant_links_for_all_four_cases (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_12_seven_covariant_links_for_all_four_cases) ... ok
+test_13_complete_action_invariance (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_13_complete_action_invariance) ... ok
+test_14_onsite_potential_vanishes_for_all_vacua (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_14_onsite_potential_vanishes_for_all_vacua) ... ok
+test_15_negative_field_only_change_breaks_invariance (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_15_negative_field_only_change_breaks_invariance) ... ok
+test_16_pure_gauge_fits_any_normalized_orientation (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_16_pure_gauge_fits_any_normalized_orientation) ... ok
+test_17_local_potential_curvature_no_mass_prediction (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_17_local_potential_curvature_no_mass_prediction) ... ok
+test_18_noncospherical_control_not_claimed_higgs_vacuum (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_18_noncospherical_control_not_claimed_higgs_vacuum) ... ok
+test_19_wilson_distinguishes_fixed_backgrounds (test_higgs_lattice_7.DiscreteHiggsSevenSiteTests.test_19_wilson_distinguishes_fixed_backgrounds) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 17.761s
+
+OK

@@ -1,0 +1,15 @@
+test_affine_ranks (test_polybrutus_higgs_lab.TestPolybrutusHiggsLab.test_affine_ranks) ... ok
+test_cube_control_not_polybrutus (test_polybrutus_higgs_lab.TestPolybrutusHiggsLab.test_cube_control_not_polybrutus) ... ok
+test_no_stationary_simple_repulsion (test_polybrutus_higgs_lab.TestPolybrutusHiggsLab.test_no_stationary_simple_repulsion) ... ok
+test_pairwise_sum_cannot_select (test_polybrutus_higgs_lab.TestPolybrutusHiggsLab.test_pairwise_sum_cannot_select) ... ok
+test_positive_third_moment_discriminant (test_polybrutus_higgs_lab.TestPolybrutusHiggsLab.test_positive_third_moment_discriminant) ... ok
+test_radial_higgs_potential_algebra (test_polybrutus_higgs_lab.TestPolybrutusHiggsLab.test_radial_higgs_potential_algebra) ... ok
+test_same_21_unlabeled_distances (test_polybrutus_higgs_lab.TestPolybrutusHiggsLab.test_same_21_unlabeled_distances) ... ok
+test_sphere_restriction (test_polybrutus_higgs_lab.TestPolybrutusHiggsLab.test_sphere_restriction) ... ok
+test_triangle_structures_are_not_equal (test_polybrutus_higgs_lab.TestPolybrutusHiggsLab.test_triangle_structures_are_not_equal) ... ok
+test_triple_descriptor_distinguishes_all_four (test_polybrutus_higgs_lab.TestPolybrutusHiggsLab.test_triple_descriptor_distinguishes_all_four) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.018s
+
+OK
